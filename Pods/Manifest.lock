@@ -1,0 +1,36 @@
+PODS:
+  - Fabric (1.6.1)
+  - MIKMIDI (1.5.0)
+  - MusicKit (0.2.0)
+  - MutableDataScanner (1.0.7)
+  - OAuthSwift (0.4.6)
+  - SwiftyJSON (2.3.1)
+  - TwitterAPI (0.1.0):
+    - MutableDataScanner
+    - OAuthSwift
+  - TwitterCore (1.14.3):
+    - Fabric
+  - TwitterKit (1.14.3):
+    - TwitterCore (= 1.14.3)
+
+DEPENDENCIES:
+  - Fabric
+  - MIKMIDI
+  - MusicKit
+  - SwiftyJSON
+  - TwitterAPI
+  - TwitterCore
+  - TwitterKit
+
+SPEC CHECKSUMS:
+  Fabric: bf0ceb04e7c924090efc5f8c55e4fbcca189e0a0
+  MIKMIDI: d3fb1fdf3459eb9a5d3068536fb30e499266dea6
+  MusicKit: 6945b9b3f12505344b8d5c7e3fb80bd3943f65d2
+  MutableDataScanner: bba5d238d7191f0e567c695f833c5d6cebcc093d
+  OAuthSwift: 8c738cc56c942a541f5c6d0362a892cb149d10b1
+  SwiftyJSON: 592b53bee5ef3dd9b3bebc6b9cb7ee35426ae8c3
+  TwitterAPI: adc61bdf90fde855e84c1bc67223c5877f22b464
+  TwitterCore: 50523a9bd5efc5aacd0ec81b179908e38b416d9d
+  TwitterKit: 52c7c710ebb730b163e814ba7b86440566c8f570
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,6 @@
+framework module MutableDataScanner {
+  umbrella header "MutableDataScanner-umbrella.h"
+
+  export *
+  module * { export * }
+}

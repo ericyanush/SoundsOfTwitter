@@ -1,0 +1,6 @@
+framework module TwitterAPI {
+  umbrella header "TwitterAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
